@@ -4,36 +4,21 @@
 
 # Hi, I'm Aman
 
-Security is mostly a visibility problem: knowing what's actually happening on your endpoints and in your logs before an attacker does. I work on the defensive side of that, building detections that catch real behavior instead of noisy signatures, and hardening endpoints so there's less for an attacker to work with in the first place.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Security+is+a+visibility+problem;Defense+first%3A+detect+early%2C+respond+fast;Catching+real+behavior%2C+not+noisy+signatures&font=Fira+Code&center=true&width=600&color=00FF00&background=00000000" alt="Security is a visibility problem. Defense first: detect early, respond fast. Catching real behavior, not noisy signatures." />
+</p>
 
 ## What I work on
 
-**Threat detection & response**
-- Building and tuning detections around known attacker behavior, mapped to MITRE ATT&CK where possible
-- Triaging and investigating alerts, separating real signal from noise
-
-**Endpoint security & hardening**
-- Reducing attack surface on endpoints: config baselines, attack surface reduction rules, least-privilege access
-- EDR policy tuning and management
-
-**Security automation & tooling**
-- Scripting repetitive response and hardening tasks in PowerShell
-- Automating identity controls, including MFA/SSO enforcement and conditional access
-
-**SIEM & log analysis**
-- Writing and refining detection queries
-- Correlating logs across endpoint, identity, and network sources
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Threat+detection+and+response;Endpoint+security+and+hardening;Security+automation+and+tooling;SIEM+and+log+analysis&font=Fira+Code&center=true&width=600&color=00FF00&background=00000000" alt="Threat detection and response. Endpoint security and hardening. Security automation and tooling. SIEM and log analysis." />
+</p>
 
 ## Skills
 
-![SIEM](https://img.shields.io/badge/SIEM-2E3440?style=for-the-badge)
-![EDR](https://img.shields.io/badge/EDR-3B4252?style=for-the-badge)
-![Tenable](https://img.shields.io/badge/Tenable-2E3440?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-3B4252?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python&logoColor=3776AB)
-![AWS](https://img.shields.io/badge/AWS-3B4252?style=for-the-badge)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-2E3440?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-3B4252?style=for-the-badge&logo=splunk&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Detection+engineering;Endpoint+hardening;Vulnerability+management;Identity+and+access+management;Security+automation+and+scripting;Cloud+security;Log+analysis+and+correlation;Threat-informed+defense&font=Fira+Code&center=true&width=600&color=00FF00&background=00000000" alt="Detection engineering. Endpoint hardening. Vulnerability management. Identity and access management. Security automation and scripting. Cloud security. Log analysis and correlation. Threat-informed defense." />
+</p>
 
 ## TryHackMe
 
@@ -42,6 +27,11 @@ Security is mostly a visibility problem: knowing what's actually happening on yo
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/CTRL.ALT.DEL.png)](https://tryhackme.com/p/CTRL.ALT.DEL)
 
+## Currently learning
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=currently_learning%3A+AZ-500&font=Fira+Code&center=true&width=600&color=00FF00&background=00000000" alt="currently_learning: AZ-500" />
+</p>
 
 ## GitHub stats
 
