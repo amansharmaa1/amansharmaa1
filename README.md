@@ -28,11 +28,6 @@ Security is mostly a visibility problem: knowing what's actually happening on yo
 
 ![SIEM](https://img.shields.io/badge/SIEM-2E3440?style=for-the-badge)
 ![EDR](https://img.shields.io/badge/EDR-3B4252?style=for-the-badge)
-![MFA/SSO](https://img.shields.io/badge/MFA%2FSSO-2E3440?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-3B4252?style=for-the-badge)
-![Intune](https://img.shields.io/badge/Intune-2E3440?style=for-the-badge)
-![Defender](https://img.shields.io/badge/Defender-3B4252?style=for-the-badge)
 ![Tenable](https://img.shields.io/badge/Tenable-2E3440?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-3B4252?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -47,7 +42,6 @@ Security is mostly a visibility problem: knowing what's actually happening on yo
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/CTRL.ALT.DEL.png)](https://tryhackme.com/p/CTRL.ALT.DEL)
 
-## Currently learning: AZ-500
 
 ## GitHub stats
 
