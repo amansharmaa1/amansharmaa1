@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/x0rzavi/github-readme-terminal/main/docs/assets/sample.gif" width="600" alt="terminal boot animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aman+%7C+Security+Analyst;Detection+Engineering+%26+Endpoint+Hardening;Defensive+Security+First&font=Fira+Code&center=true&width=600&color=00FF00&background=00000000" alt="Aman | Security Analyst — Detection Engineering & Endpoint Hardening — Defensive Security First" />
 </p>
 
 # Hi, I'm Aman
