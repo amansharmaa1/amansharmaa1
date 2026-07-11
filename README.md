@@ -36,6 +36,5 @@
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amansharmaa1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com/?user=amansharmaa1&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
